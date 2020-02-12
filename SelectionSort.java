@@ -16,5 +16,4 @@ public class SelectionSort implements Practice03Sort {
             a[index] = temp;
         }
     }
-    
 }
